@@ -3,3 +3,5 @@
 num1 = float(input("Enter first Number: "))
 num2 = float(input("Enter second Number: "))
 print(f"The bigger number is: {max(num1, num2)}")
+
+
